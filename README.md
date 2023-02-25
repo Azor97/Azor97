@@ -1,6 +1,11 @@
-### 👽 Welcome to my profile! 🛸
-#
 ![capa](https://i.imgur.com/8TUHK6C.png)
+#
+
+<div align="center">
+👽 <strong>Welcome to my profile! </strong>🛸<br>
+Aprendendo desenvolvimento web! ✌🏼
+</div>
+
 #
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=azor97&show_icons=true&theme=tokyonight" height="180em"/>
